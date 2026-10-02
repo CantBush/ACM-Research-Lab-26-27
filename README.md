@@ -2,8 +2,6 @@
 
 Student-run lab that lowers the barrier to research: members pick topics they care about and build the skills to do the work (reading papers, setting up experiments, and explaining results).
 
-**Repo:** [github.com/CantBush/ACM-Research-Lab-26-27](https://github.com/CantBush/ACM-Research-Lab-26-27)
-
 ## Lab leads
 
 | | Andrew Nguyen | Michael Ramirez |
