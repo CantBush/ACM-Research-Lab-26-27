@@ -15,26 +15,28 @@ Student-run lab that lowers the barrier to research: members pick topics they ca
 
 | Quarter | Focus |
 | --- | --- |
-| **Fall 2026** | One shared theme: **AI safety** — making AI do what it is supposed to do, including explainable AI (XAI), alignment, and reliability. Goal is to learn the research process: read and analyze papers, set up environments, and explain findings. |
+| **Fall 2026** | Learn how to conduct research, on one shared theme: **AI safety** — making AI do what it is supposed to do, including explainable AI (XAI), alignment, and reliability. |
 | **Winter / Spring** | Members choose the directions. Multiple tracks run in parallel, with weekly presentations to stay on track. |
 
 ## Logistics
 
 - **Meetings:** Tuesday and Thursday. Times can shift with availability — update the [when2meet](https://www.when2meet.com/?39001523-XiZcH) if those days do not work.
-- **Fall setup:** shared OpenAI namespace and API keys (ACM funds cover API costs; confirm with officers). The lab picks the replication paper by blind vote.
+- **Fall setup:** shared OpenAI namespace and API keys (ACM funds cover API costs; confirm with officers). The lab picks the replication paper by blind vote. Task shape follows the [AIEA Lab onboarding](https://github.com/aiea-lab/CMPM118/tree/main/onboarding) (llm-logic and self-explainable neural networks); adjust later if a lead’s expertise differs.
 - **Weekly deliverables** keep everyone on the roadmap. Short feedback helps leads see what is working and where to help.
 
 ## Fall 2026 roadmap
 
+Specs are in [`fall/`](fall/). Anything the plan does not pin down is marked TBD in that file.
+
 | Week | Tuesday | Thursday | Deliverable |
 | --- | --- | --- | --- |
-| 4 | Kickoff, intro deck, icebreakers, OpenAI namespace and API keys | Live API-call demo; paper pool | Join the namespace, make a few working API calls, and pick 1–2 AI safety papers |
-| 5 | Forward and backward chaining, and how they explain AI decisions | RAG walkthrough; vote on the paper to replicate | Small RAG or chaining experiment, plus a one-paragraph summary of your paper |
-| 6 | Break the paper into pieces and assign implementations | Progress check and debugging | Implement the paper’s main algorithm |
-| 7 | Compare results with the paper | Gap analysis: what the paper misses and where it breaks | Replication results, plus 2–3 extension ideas |
-| 8 | Short presentations (each person explains a different explainability paper) | Settle the extension and run first experiments | Slides and the extension plan |
-| 9 | Paper structure and section assignments | Peer review | Full paper draft |
-| 10 | Final edits | Final check-in; preview winter tracks | Final report, plus a short quarter survey |
+| 4 | Kickoff, intro deck, icebreakers, OpenAI namespace and API keys | Live API-call demo; paper pool | [1 — Join the namespace, make a few working API calls, pick 1–2 AI safety papers](fall/deliverable-1.md) |
+| 5 | Forward and backward chaining, and how they explain AI decisions | RAG walkthrough; vote on the paper to replicate | [2 — Small RAG or chaining experiment, plus a one-paragraph summary of your chosen paper](fall/deliverable-2.md) |
+| 6 | Break the paper into pieces and assign implementations | Progress check and debugging | [3 — Implement the paper’s main algorithm yourself](fall/deliverable-3.md) |
+| 7 | Compare results with the paper | Gap analysis: what the paper misses and where it breaks | [4 — Replication results, plus 2–3 extension ideas](fall/deliverable-4.md) |
+| 8 | Short presentations (each person explains a different explainability paper) | Settle the extension and run first experiments | [5 — Slides and the plan for the extension](fall/deliverable-5.md) |
+| 9 | Paper structure and section assignments | Peer review | [6 — Full paper draft](fall/deliverable-6.md) |
+| 10 | Final edits | Final check-in; preview winter tracks | [7 — Final report, plus a short quarter survey](fall/deliverable-7.md) |
 
 ## Winter tracks
 
