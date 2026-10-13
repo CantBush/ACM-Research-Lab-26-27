@@ -21,7 +21,7 @@ Student-run lab that lowers the barrier to research: members pick topics they ca
 ## Logistics
 
 - **Meetings:** Tuesday and Thursday. Times can shift with availability — update the [when2meet](https://www.when2meet.com/?39001523-XiZcH) if those days do not work.
-- **Fall setup:** shared OpenAI namespace and API keys (ACM funds cover API costs; confirm with officers). The lab picks the replication paper by blind vote. Task shape follows the [AIEA Lab onboarding](https://github.com/aiea-lab/CMPM118/tree/main/onboarding) (llm-logic and self-explainable neural networks); adjust later if a lead’s expertise differs.
+- **Fall setup:** shared OpenAI namespace and API keys (ACM funds cover API costs; confirm with officers). The lab picks the replication paper by blind vote.
 - **Weekly deliverables** keep everyone on the roadmap. Short feedback helps leads see what is working and where to help.
 
 ## Fall 2026 roadmap
