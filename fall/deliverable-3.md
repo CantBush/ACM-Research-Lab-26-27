@@ -10,9 +10,12 @@
 
 - Your assigned piece of the main algorithm runs.
 
+## Turn in
+
+Open a PR that adds your work to `submissions/<your-name>/week-6/`, as described in [`submissions/`](../submissions/README.md).
+
 ## TBD
 
 - Which paper (chosen by the Week 5 vote).
 - How the paper is split, and who owns which part. “Yourself” and “assign who implements which parts” need a lead call on individual vs. shared work.
 - What “main algorithm” means for the voted paper.
-- Where to turn this in.
