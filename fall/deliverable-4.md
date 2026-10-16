@@ -12,8 +12,11 @@
 - Results are written down with the comparison.
 - You have 2 or 3 concrete extension ideas from the gap analysis.
 
+## Turn in
+
+Open a PR that adds your work to `submissions/<your-name>/week-7/`, as described in [`submissions/`](../submissions/README.md).
+
 ## TBD
 
 - Which metrics or figures must match the paper.
 - How formal the writeup is (length, plots, repo link).
-- Where to turn this in.

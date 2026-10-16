@@ -13,10 +13,13 @@
 - You have given the presentation.
 - Slides and the extension plan are submitted.
 
+## Turn in
+
+Open a PR that adds your work to `submissions/<your-name>/week-8/`, as described in [`submissions/`](../submissions/README.md).
+
 ## TBD
 
 - Which explainability papers are assigned.
 - How long the presentation is, and what the slides must cover.
 - What the extension plan must include (hypothesis, method, data, success criteria).
 - Whether Thursday’s first experiments are part of this deliverable or only prep for later weeks.
-- Where to turn this in.

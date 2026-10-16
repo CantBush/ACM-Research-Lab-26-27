@@ -12,8 +12,11 @@
 - The final report is in.
 - The survey is submitted.
 
+## Turn in
+
+Open a PR that adds your work to `submissions/<your-name>/week-10/`, as described in [`submissions/`](../submissions/README.md).
+
 ## TBD
 
 - How the final report differs from the Week 9 draft.
 - Survey questions and where it lives.
-- Where to turn the report in.
