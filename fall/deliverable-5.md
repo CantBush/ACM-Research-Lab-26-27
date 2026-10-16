@@ -1,25 +1,27 @@
 # Deliverable 5 — Explainability presentations and the extension
 
-**Week 8.** Tuesday: short presentations; each person explains a different explainability paper. Thursday: settle on the extension idea and run the first experiments.
+**Week 8.** Tuesday: short presentations; each person explains a different explainability paper. Thursday: each team settles on its extension idea and runs the first experiments.
 
 ## Tasks
 
-- [ ] Present your explainability paper.
-- [ ] Turn in your slides.
-- [ ] Turn in the plan for the extension.
+- [ ] Give a 5-minute presentation (about 5 slides) on your explainability paper. Cover the problem, the method, the key result, and one limitation.
+- [ ] As a team, write the plan for your extension. It must include:
+  - **Hypothesis:** what you expect to happen, and why.
+  - **Method:** what you will change or add to the replication.
+  - **Data and models:** the datasets and models you will use.
+  - **Success criteria:** what result counts as the extension working.
+- [ ] Run a first experiment for the extension. Any output counts, even a failed run.
 
 ## Done when
 
 - You have given the presentation.
-- Slides and the extension plan are submitted.
+- Your team's extension plan covers all four parts.
+- The team repo has a first extension run with its output.
 
 ## Turn in
 
-Open a PR that adds your work to `submissions/<your-name>/week-8/`, as described in [`submissions/`](../submissions/README.md).
+In the Notion row, link your slides as the doc and the team repo (`week-8/` folder) as the repo; see [Turning in work](turn-in.md). Put the extension plan in the team repo, for example `week-8/PLAN.md`.
 
 ## TBD
 
-- Which explainability papers are assigned.
-- How long the presentation is, and what the slides must cover.
-- What the extension plan must include (hypothesis, method, data, success criteria).
-- Whether Thursday’s first experiments are part of this deliverable or only prep for later weeks.
+- Which explainability papers are assigned to whom.

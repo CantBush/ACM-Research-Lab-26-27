@@ -4,19 +4,21 @@
 
 ## Tasks
 
-- [ ] Report your replication results next to the paper’s results.
+- [ ] Reproduce the paper’s headline result (its main table or figure).
+- [ ] Make one plot or table that puts your numbers next to the paper’s.
+- [ ] Say how close you got, and why your numbers differ.
 - [ ] List 2 or 3 ideas for extending the work.
 
 ## Done when
 
-- Results are written down with the comparison.
+- The comparison plot or table is in your writeup.
+- You have explained the gap between your result and the paper’s.
 - You have 2 or 3 concrete extension ideas from the gap analysis.
 
 ## Turn in
 
-Open a PR that adds your work to `submissions/<your-name>/week-7/`, as described in [`submissions/`](../submissions/README.md).
+Turn in a one-page writeup and a link to your team repo (`week-7/` folder), as described in [Turning in work](turn-in.md).
 
 ## TBD
 
-- Which metrics or figures must match the paper.
-- How formal the writeup is (length, plots, repo link).
+- Which table or figure counts as the headline result (depends on the voted paper).

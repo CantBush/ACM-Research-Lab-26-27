@@ -5,17 +5,18 @@
 ## Tasks
 
 - [ ] Get your OpenRouter API key from a lead. Each key is labeled with your name and has a credit cap.
-- [ ] Put the key in a `.env` file in your submission folder. Do not commit it or paste it anywhere in the repo.
+- [ ] Create a GitHub repo for your lab work this quarter. Add a `.gitignore` that excludes `.env` before your first commit.
+- [ ] Put the key in a `.env` file in that repo. Do not commit it or paste it anywhere else.
 - [ ] Make a few working API calls through OpenRouter. Try at least two different models, and make at least one of them an open-weight model (for example Llama, Qwen, or DeepSeek). Keep the code and outputs.
 - [ ] From the paper pool handed out Thursday, pick 1 or 2 AI safety papers you want to work from.
-- [ ] Open a PR that adds your work to `submissions/<your-name>/week-4/`.
+- [ ] Push your work to a `week-4/` folder in your repo, and write your one-page writeup.
 
 ## Done when
 
 - You have a working key.
 - You can show a few working API calls across at least two models.
 - You have named 1 or 2 papers from the pool.
-- Your PR is open, and it does not contain your key.
+- Your writeup and repo link are turned in, and the repo does not contain your key.
 
 ## Key rules
 
@@ -24,7 +25,7 @@
 
 ## Turn in
 
-Open a PR to this repo as described in [`submissions/`](../submissions/README.md).
+Turn in a one-page writeup and a link to your repo (`week-4/` folder), as described in [Turning in work](turn-in.md).
 
 ## TBD
 

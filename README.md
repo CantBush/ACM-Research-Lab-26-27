@@ -22,7 +22,7 @@ Student-run lab that lowers the barrier to research: members pick topics they ca
 
 - **Meetings:** Tuesday and Thursday. Times can shift with availability — update the [when2meet](https://www.when2meet.com/?39001523-XiZcH) if those days do not work.
 - **Fall setup:** the lab uses one shared [OpenRouter](https://openrouter.ai) account, so members can try both proprietary and open-weight models through one API. Each member gets their own key from a lead. Each key is labeled with the member's name and has a credit cap. Keys are for lab work only. ACM funds cover API costs; confirm with officers. The lab picks the replication paper by blind vote.
-- **Turning in work:** every deliverable is a PR to this repo. See [`submissions/`](submissions/README.md).
+- **Turning in work:** each deliverable is a row in the lab's Notion database. The row links a Google Doc (a one-page writeup, or the slides or paper in Weeks 8–10) and the repo with the code. Members work in their own repo for Weeks 4–5 and in a team repo from Week 6. See [Turning in work](fall/turn-in.md).
 - **Weekly deliverables** keep everyone on the roadmap. Short feedback helps leads see what is working and where to help.
 
 ## Fall 2026 roadmap

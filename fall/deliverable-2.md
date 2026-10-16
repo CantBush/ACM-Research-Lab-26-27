@@ -4,8 +4,8 @@
 
 ## Tasks
 
-- [ ] Run a small experiment that is **either** RAG **or** chaining (forward or backward).
-- [ ] Write a one-paragraph summary of your chosen paper (one of the papers you picked in Deliverable 1).
+- [ ] Run a small experiment that is **either** RAG **or** chaining (forward or backward). You pick the size. You can write it from scratch or use a library; if you use a library, explain what it does for you.
+- [ ] Write a one-paragraph summary of a paper (see TBD).
 
 ## Done when
 
@@ -14,10 +14,8 @@
 
 ## Turn in
 
-Open a PR that adds your work to `submissions/<your-name>/week-5/`, as described in [`submissions/`](../submissions/README.md).
+Turn in a one-page writeup and a link to your repo (`week-5/` folder), as described in [Turning in work](turn-in.md). The paragraph can go in the writeup.
 
 ## TBD
 
-- How large the experiment should be (data, prompts, or knowledge base).
-- Whether chaining means an implementation from scratch or a library.
-- Whether the paragraph should instead summarize the paper the lab votes to replicate. The plan says “your chosen paper,” which reads as your Week 4 pick. The replication vote is a separate Thursday activity.
+- Which paper the paragraph summarizes: your Week 4 pick, or the paper the lab votes to replicate.

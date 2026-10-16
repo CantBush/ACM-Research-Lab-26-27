@@ -4,19 +4,18 @@
 
 ## Tasks
 
-- [ ] Turn in the final report.
-- [ ] Complete a short survey about the quarter.
+- [ ] Turn in the final paper: your Week 9 draft with the peer-review feedback addressed and final results in.
+- [ ] Complete the quarter survey (a Google Form; the link will be in Notion).
 
 ## Done when
 
-- The final report is in.
+- The final paper is in, and each of the 3 fixes from your review is addressed or answered.
 - The survey is submitted.
 
 ## Turn in
 
-Open a PR that adds your work to `submissions/<your-name>/week-10/`, as described in [`submissions/`](../submissions/README.md).
+In the Notion row, link the final paper as the doc and the team repo (`week-10/` folder) as the repo; see [Turning in work](turn-in.md).
 
 ## TBD
 
-- How the final report differs from the Week 9 draft.
-- Survey questions and where it lives.
+- Survey questions (leads write them).
