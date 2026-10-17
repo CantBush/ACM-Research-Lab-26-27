@@ -8,6 +8,7 @@
 - [ ] Create a GitHub repo for your lab work this quarter. Add a `.gitignore` that excludes `.env` before your first commit.
 - [ ] Put the key in a `.env` file in that repo. Do not commit it or paste it anywhere else.
 - [ ] Make a few working API calls through OpenRouter. Try at least two different models, and make at least one of them an open-weight model (for example Llama, Qwen, or DeepSeek). Keep the code and outputs.
+- [ ] Read Zachary C. Lipton, [*The Mythos of Model Interpretability*](https://arxiv.org/abs/1606.03490) (2016).
 - [ ] From the paper pool handed out Thursday, pick 1 or 2 AI safety papers you want to work from.
 - [ ] Push your work to a `week-4/` folder in your repo, and write your one-page writeup.
 
@@ -15,6 +16,7 @@
 
 - You have a working key.
 - You can show a few working API calls across at least two models.
+- You have read *The Mythos of Model Interpretability*.
 - You have named 1 or 2 papers from the pool.
 - Your writeup and repo link are turned in, and the repo does not contain your key.
 

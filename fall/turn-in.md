@@ -26,8 +26,8 @@ In Weeks 8–10 the slides or paper replace the writeup.
 
 ## The repo
 
-- **Weeks 4–5:** your own repo, which you create in Week 4.
-- **Weeks 6–10:** one shared repo per team.
+- **Weeks 4–6:** your own repo, which you create in Week 4. Week 6 stays individual.
+- **Weeks 7–10:** one shared repo per team.
 
 Either way:
 
