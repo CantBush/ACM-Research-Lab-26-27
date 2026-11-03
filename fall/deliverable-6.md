@@ -1,6 +1,6 @@
 # Deliverable 6 — Write the paper
 
-**Week 9.** Tuesday: paper structure and section assignments within each team. Thursday: teams swap drafts for peer review.
+**Week 9.** The only meeting is Tuesday, Nov 24. Thursday, Nov 26 is a campus holiday, so members who usually come Thursday come Tuesday that week. The meeting is help on the paper structure, the assigned sections, and the peer review. Teams exchange reviews in writing by the Saturday deadline.
 
 ## Tasks
 

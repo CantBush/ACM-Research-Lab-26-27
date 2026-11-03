@@ -1,6 +1,6 @@
 # Deliverable 3 — Start the replication
 
-**Week 6.** This is an individual task. Tuesday: start implementing the voted paper’s main algorithm on your own. Thursday: progress check and debugging help. Teams start in Week 7.
+**Week 6.** This is an individual task. Tuesday, Nov 3 and Thursday, Nov 5 are the same meeting: a check-in and debugging help on the main algorithm. Attend one. Teams start in Week 7.
 
 ## Tasks
 

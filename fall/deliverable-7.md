@@ -1,6 +1,6 @@
 # Deliverable 7 — Wrap up
 
-**Week 10.** Tuesday: final edits. Thursday: final check-in, and a preview of the winter project tracks.
+**Week 10.** Tuesday, Dec 1 and Thursday, Dec 3 are the same meeting. Attend one. The meeting is help on the final edits, then the same short preview of the winter tracks.
 
 ## Tasks
 

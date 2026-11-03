@@ -1,6 +1,6 @@
 # Deliverable 5 — Explainability presentations and the extension
 
-**Week 8.** Tuesday: short presentations; each person explains a different explainability paper. Thursday: each team settles on its extension idea and runs the first experiments.
+**Week 8.** Tuesday, Nov 17 and Thursday, Nov 19 are the same meeting. Attend one. People give their 5-minute talks on the day they attend. The rest of the meeting is help settling the extension and running the first experiment. Slides are turned in through Notion, so the other day can read them.
 
 ## Tasks
 

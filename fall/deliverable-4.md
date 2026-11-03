@@ -1,6 +1,6 @@
 # Deliverable 4 — Finish the replication and find the gaps
 
-**Week 7.** Tuesday: compare your results with the paper’s. Thursday: gap analysis — what the paper misses and where it breaks.
+**Week 7.** Tuesday, Nov 10 and Thursday, Nov 12 are the same meeting. Attend one. The meeting is help on whatever is in progress: the comparison with the paper, or the gap analysis.
 
 ## Tasks
 
